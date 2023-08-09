@@ -1,2 +1,3 @@
 # odin-recipes
-leaning github
+leaning github and making a simple website
+
